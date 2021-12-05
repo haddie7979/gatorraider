@@ -98,11 +98,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="FullScreen" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Project" />
@@ -129,7 +132,7 @@
       <recent name="C:\Users\Jeremiah Blanchard\Repositories\Pakku-Pakku\System\game\core" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Example - Visual">
+  <component name="RunManager" selected="Application.TestAgent - Visual">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -529,7 +532,11 @@
       <workItem from="1521601882505" duration="1222000" />
       <workItem from="1521844206290" duration="9869000" />
       <workItem from="1521911518709" duration="618000" />
-      <workItem from="1638655771804" duration="9818000" />
+      <workItem from="1637564224558" duration="4062000" />
+      <workItem from="1637691959883" duration="1198000" />
+      <workItem from="1637767983188" duration="1009000" />
+      <workItem from="1637962924843" duration="15373000" />
+      <workItem from="1638295227086" duration="2605000" />
     </task>
     <servers />
   </component>
@@ -538,18 +545,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
